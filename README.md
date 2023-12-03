@@ -8,8 +8,9 @@ that will also funnily enough be called continuum.
 
 # Credits
 
-## nshout for serenity-self
+nshout for serenity-self
 nshout -> https://github.com/nshout
+
 serenity-self -> https://github.com/nshout/serenity-self
 
 -------------------------------------------------------------------
