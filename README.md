@@ -7,6 +7,7 @@ the serenity crate before I get to work on a Dyno/mee6 competitor,
 that will also funnily enough be called continuum.
 
 # Credits
+
 ## nshout for serenity-self
 nshout -> https://github.com/nshout
 serenity-self -> https://github.com/nshout/serenity-self
