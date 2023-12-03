@@ -6,6 +6,8 @@ I decided to create this piece of software to help get a grasp on
 the serenity crate before I get to work on a Dyno/mee6 competitor,
 that will also funnily enough be called continuum.
 
+**infrequent updates**
+
 # Credits
 
 nshout for serenity-self
