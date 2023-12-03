@@ -15,5 +15,4 @@ nshout -> https://github.com/nshout
 serenity-self -> https://github.com/nshout/serenity-self
 
 -------------------------------------------------------------------
-There is also a poise-self project being worked on by nshout with
-some help from myself -> https://github.com/nshout/poise-self
+nshout also has poise-self which has recieved some help from myself -> https://github.com/nshout/poise-self
